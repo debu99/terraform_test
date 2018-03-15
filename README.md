@@ -53,5 +53,5 @@ Todo
 --------------------------------------------------------------------
 1. Servers' TCP22 only open to Bastion Server
 2. Should add one more VPC as management VPC to connect to the Bastion in Production
-3. MongoDB is not production setup, need some time to do further research
+3. MongoDB is in sharding, need some time to do further research and implement sharding
 
